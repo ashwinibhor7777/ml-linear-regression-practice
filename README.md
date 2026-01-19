@@ -178,4 +178,4 @@ This project strengthened my understanding of **machine learning fundamentals** 
 
 ---
 
-⭐ If you find this project helpful, feel free to star the repository!
+⭐ If you find this project helpful, feel free to star the repository!.
